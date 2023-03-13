@@ -5,8 +5,8 @@ This is a Python script that generates an ASCII art video by converting each fra
 ## Installation
 
 1. Clone this repository: `git clone https://github.com/example/ascii-video-generator.git`
-2. Install the required libraries: `pip install opencv-python Pillow`
-3. Run the script: `python ascii_video_generator.py <file_path>`
+2. Install the required libraries: `pip install -r requirements.txt`
+3. Run the script: `python _main_.py <file_path>`
 
 ## Usage
 
@@ -25,7 +25,7 @@ You can also customize the width of the ASCII art by modifying the `new_width` p
 Here's an example of how to use the script:
 
 ```bash
-python3 ascii_video_generator.py example.mp4
+python3 _main_.py example.mp4
 ```
 
 ## License
