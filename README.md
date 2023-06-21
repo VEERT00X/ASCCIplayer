@@ -28,6 +28,11 @@ Here's an example of how to use the script:
 python3 _main_.py example.mp4
 ```
 
+## PyInstaller
+
+* Since version 2.0 the script is now also compiled to an .exe file using PyInstaller.
+* Run The Script: `_main_.exe <file_path>`
+
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
